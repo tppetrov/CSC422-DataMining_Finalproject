@@ -1,0 +1,28 @@
+Kernel:  problem.complete 
+                Df Sum Sq Mean Sq F value Pr(>F)
+data1[, myCol]   1    159   159.1   0.252  0.616
+Residuals      194 122448   631.2               
+
+  1   2   3   4 
+192   2   1   1 
+Kernel:  problem.average 
+                Df Sum Sq Mean Sq F value Pr(>F)
+data1[, myCol]   1    494   493.7   0.784  0.377
+Residuals      194 122114   629.5               
+
+  1   2   3   4 
+193   1   1   1 
+Kernel:  problem.median 
+                Df Sum Sq Mean Sq F value Pr(>F)
+data1[, myCol]   1    494   493.7   0.784  0.377
+Residuals      194 122114   629.5               
+
+  1   2   3   4 
+193   1   1   1 
+Kernel:  problem.ward 
+                Df Sum Sq Mean Sq F value Pr(>F)
+data1[, myCol]   1    494   493.7   0.784  0.377
+Residuals      194 122114   629.5               
+
+  1   2   3   4 
+193   1   1   1 
